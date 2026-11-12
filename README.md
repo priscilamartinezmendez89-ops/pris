@@ -1,0 +1,2 @@
+# pris
+para escanear
